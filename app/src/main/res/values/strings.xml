@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Super Bike Shop</string>
+
+    <string name="bike_name">Bike Name</string>
+    <string name="description">Description</string>
+
+    <string name="r1">Yamaha launched the YZF-R1 in 1998 after redesigning the Genesis engine to create a more compact engine by raising the gearbox input shaft and allowing the gearbox output shaft to be placed beneath it. This \'stacked gearbox\' was followed by other manufacturers. Compacting the engine made it much shorter, allowing the wheelbase to be shortened as well and the center of gravity to be optimized. The swingarm could be made longer without compromising the overall wheelbase, which was a short 1,385 mm (54.5 in). Four 40 mm Keihin CV carburetors fed fuel to the engine.
+The R1 was also equipped with a 41 mm KYB upside-down front fork and 300 mm semi-floating disc brakes. The instrument panel was electronic, with a self diagnosis system and digital speed readout. The exhaust used Yamahas Exhaust Ultimate Power Valve (EXUP) system, which controlled exhaust gas flow to maximize engine power production at all revs, resulting in a high-power and high-torque engine.</string>
+    <string name="r6">The YZF-R6 was introduced in 1999 as the super sport version of YZF-R1 super bike, and as a companion to the more street-oriented YZF600R sport bike which continued to be sold alongside the R6. The motorcycle featured Yamaha completely new engine design capable of producing over 108 hp (81 kW) while stationary. The R6 was the worlds first 600cc production four-stroke motorcycle producing over 100 hp (75 kW) in stock form. The YZF-R6 has been revised several times since its introduction. Starting with the 2003 model, when the R6 became fuel-injected. The 2006 model year was a significant upgrade with a new engine management system featuring the YCC-T ride by wire throttle and a multi-plate slipper clutch. The 2008 model incorporated the YCC-I variable-length intake system to optimize power at high engine rpm and an improved Deltabox frame design.</string>
+    <string name="zx25">The Kawasaki Ninja ZX-25R gets you a 249.8cc, DOHC, fuel-injected, liquid-cooled, 16-valve, In-line 4-cylinder Engine, gets maximum power at 51 hp @ 15,500 rpm and Maximum Torque at 22.9 Nm @ 14,500 rpm. The most important thing about this bike is that in this bike you get a 4-cylinder engine. Because of which the performance of the bike gets even better, the Kawasaki Ninja comes with 250 6-speed gears. And in Ktm RC 250 you get Lightweight 4-stroke Liquid-Cooled 4-valve DOHC Single-cylinder 248.8cc engine (strongest in its class) engine in Ktm RC 250 at Maximum Power 30.5 Bhp @ 9,000 rpm and Maximum Torque 24.0 Nm Generates @ 7,500 rpm Ktm RC 250 you get 1-cylinder 6 -speed gears. In the Ktm RC 250, you get a 1-cylinder and the Kawasaki Ninja ZX-25R 4-cylinder. There is a lot of difference in the power of the engine of these two bikes.</string>
+    <string name="zx6">Kawasaki introduced the ZX-6R in 1995 with very similar looks and features like the 1994 introduced ZX-9R, including the ram-air intake that had been developed by Kawasaki since the 1990 ZX-11 (ZZ-R1100). The first ZX-6R had a dry weight of 401.2 lb (182.0 kg), wet weight of 454 lb (206 kg), and was capable of accelerating 0 to 60 mph (0 to 97 km/h) in 3.6 seconds. There was a major revamp of the ZX-6R in 1998 with the Launch of the G series. The G series saw no increase in displacement but power went from 100 BHP to 108 BHP thanks to the newly designed airbox.
+        The fairing was revamped, but it retained a similar design for the headlight, air intakes and windscreen. In 2000, the first J series replaced the G, increasing power to 112 BHP by increasing the compression ratio from 11.8:1 to 12.8:1. The J series sported a couple of modernisations including a 180 section rear tire, second headlight, uprated generator and stick coils (coil on plug) replacing the traditional coil with HT lead.</string>
+    <string name="zx10">The Kawasaki Ninja ZX-10R is a motorcycle in the Ninja sport bike series from the Japanese manufacturer Kawasaki, the successor to the Ninja ZX-9R. It was originally released in 2004 and has been updated and revised throughout the years. It combines an ultra-narrow chassis, low weight, and radial brakes. In 2004 and 2005 the ZX-10R won Best Superbike from Cycle World magazine, and the international Masterbike competition. Kawasaki engineers used a stacked design for a liquid-cooled, 998 cc (60.9 cu in) inline four-cylinder engine. The crankshaft axis, input shaft, and output shaft of the Ninja ZX-10R engine are positioned in a triangular layout to reduce engine length, while the high-speed generator is placed behind the cylinder bank to reduce engine width. With a bore and stroke of 76 mm × 55 mm (3.0 in × 2.2 in), the ZX-10R engines one-piece cylinder, and crankcase assembly reduces weight and increases rigidity. The DOHC are machined from Chromoly steel, built for strength; four valves per cylinder improve high-rpm breathing; and the forged, lightweight pistons offer high heat resistance to further enhance the bikes power-to-weight ratio.</string>
+    <string name="h2">The Kawasaki Ninja H2 is a \'supercharged supersport\'-class motorcycle in the Ninja sports bike series manufactured by Kawasaki, featuring a variable-speed centrifugal supercharger. Its namesake is the 750 cc Kawasaki H2 Mach IV, an inline triple that was introduced by Kawasaki in 1972 to \'disrupt what it saw as a sleeping motorcycle market\'.
+        Its Ninja H2R track-only variant is the fastest and most powerful production motorcycle on the market, producing a maximum of 310 horsepower (230 kW) and 326 horsepower (243 kW) with ram-air. The H2R has 50% more power than the fastest street-legal motorcycles, while the street-legal Ninja H2 has a lower power output of 200 hp (150 kW)–210 hp (160 kW) with ram-air.</string>
+    <string name="bmw">BMW S1000RR is a race oriented sport bike initially made by BMW Motorrad to compete in the 2009 Superbike World Championship, that is now in commercial production. It was introduced in Munich in April 2008, and is powered by a 999 cc (61.0 cu in) four-cylinder engine redlined at 14,200 rpm.
+        BMW made 1,000 S1000RRs in 2009 to satisfy World Superbike homologation requirements, but expanded production for commercial sale of the bike in 2010. It has a standard anti-lock braking system, with an optional electronic traction control. As of 2016, it has a wet weight of 204 kg (450 lb), and produces 148.4 kW (199.0 hp; 201.8 PS) at 13,500 rpm. With 133.6 kW (179.2 hp; 181.6 PS) to the rear wheel, it was the most powerful motorcycle in the class on the dyno</string>
+    <string name="cbr">The Honda CBR1000RR, marketed in some countries as the "Fireblade" (capitalized as FireBlade until the 2000s), is a 999 cc (61.0 cu in) liquid-cooled inline four-cylinder superbike, introduced by Honda in 2004 as the 7th generation of the CBR series of motorcycles that began with the CBR900RR in 1990.
+        The Honda CBR1000RR was developed by the same team that was behind the MotoGP series. Many of the new technologies introduced in the Honda CBR600RR, a direct descendant of the RC211V, were used in the new CBR1000RR such as a lengthy swingarm, Unit Pro-Link rear suspension, and Dual Stage Fuel Injection System (DSFI).</string>
+    <string name="gsx">For 2001, Suzuki introduced a new GSX-R model that replaced the largest and most powerful model of the GSX-R series sportbike, the GSX-R1100, with the all-new GSX-R1000. As the model name revealed, the engines cylinder displacement was roughly 1,000 cc (61 cu in), about 100 cc smaller than its predecessor. The GSX-R1000 was not just an enlarged version of the GSX-R750, although it shared many features with its little brother. The mainframe is the same in both models, but the material used on the big brother was .5 mm (0.020 in) thicker. Suzuki claimed the torsional rigidity of the frame had increased 10% in comparison with the GSX-R750.
+        The GSX-R1000 engine was a redesigned GSX-R750 engine. The R1000 had a 1 mm (0.04 in) bigger bore and 13 mm (0.51 in) longer stroke, newly designed pistons with lower crown, and gear-driven counter balancer. The engine weighed 130 lb (59 kg) which was slightly heavier than the 750 engine but 31 lb (14 kg) lighter than the engine of the GSX1300R. The performance of the engine is a peak of 160 bhp (119 kW) at 9,500 rpm, as measured on the crank and 143 hp (107 kW), when measured on the rear wheel with small variations between different instances of the same model. The redline is set at 12,000 rpm. The maximum torque of the engine is 80 ft⋅lbf (108 N⋅m) at 8,000 rpm. Combined with a total (dry) weight of 374 lb (170 kg) this gives the GSX-R1000 a top speed of 173 mph (278 km/h), a 1/4 mile time of 10.1 seconds at 141.7 mph (228.0 km/h), and a 0 to 100 km/h (62 mph) time of 3 seconds.</string>
+    <string name="hayabusa">The Suzuki GSX1300R Hayabusa is a sports motorcycle made by Suzuki since 1999. It immediately won acclaim as the worlds fastest production motorcycle, with a top speed of 303 to 312 km/h (188 to 194 mph). In 1999, fears of a European regulatory backlash or import ban led to an informal agreement between the Japanese and European manufacturers to govern the top speed of their motorcycles at an arbitrary limit starting in late 2000. The media-reported value for the speed agreement in miles per hour was consistently 186 mph, while in kilometers per hour it varied from 299 to 303 km/h, which is typical given unit conversion rounding errors. This figure may also be affected by a number of external factors, as can the power and torque values</string>
+
+    <string-array name="data_name">
+        <item>Yamaha YZF-R1</item>
+        <item>Yamaha YZF-R6</item>
+        <item>Kawasaki Ninja ZX-25R</item>
+        <item>Kawasaki Ninja ZX-6R</item>
+        <item>Kawasaki Ninja ZX-10R</item>
+        <item>Kawasaki Ninja H2</item>
+        <item>BMW S1000RR</item>
+        <item>Honda CBR10000RR</item>
+        <item>Suzuki GSX-R1000</item>
+        <item>Suzuki GSX1300R Hayabusa</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Yamaha launched the YZF-R1 in 1998 after redesigning the Genesis engine to create a more compact engine by raising the gearbox input shaft and allowing the gearbox output shaft to be placed beneath it. This "stacked gearbox" was followed by other manufacturers.</item>
+        <item>The YZF-R6 was introduced in 1999 as the super sport version of YZF-R1 super bike, and as a companion to the more street-oriented YZF600R sport bike which continued to be sold alongside the R6. The motorcycle featured Yamaha completely new engine design capable of producing over 108 hp (81 kW) while stationary. The R6 was the worlds first 600cc production four-stroke motorcycle producing over 100 hp (75 kW) in stock form.</item>
+        <item>The Kawasaki Ninja ZX-25R gets you a 249.8cc, DOHC, fuel-injected, liquid-cooled, 16-valve, In-line 4-cylinder Engine, gets maximum power at 51 hp @ 15,500 rpm and Maximum Torque at 22.9 Nm @ 14,500 rpm. The most important thing about this bike is that in this bike you get a 4-cylinder engine.</item>
+        <item>Kawasaki introduced the ZX-6R in 1995 with very similar looks and features like the 1994 introduced ZX-9R, including the ram-air intake that had been developed by Kawasaki since the 1990 ZX-11 (ZZ-R1100). The first ZX-6R had a dry weight of 401.2 lb (182.0 kg), wet weight of 454 lb (206 kg), and was capable of accelerating 0 to 60 mph (0 to 97 km/h) in 3.6 seconds.</item>
+        <item>The Kawasaki Ninja ZX-10R is a motorcycle in the Ninja sport bike series from the Japanese manufacturer Kawasaki, the successor to the Ninja ZX-9R. It was originally released in 2004 and has been updated and revised throughout the years. It combines an ultra-narrow chassis, low weight, and radial brakes. In 2004 and 2005 the ZX-10R won Best Superbike from Cycle World magazine, and the international Masterbike competition.</item>
+        <item>The Kawasaki Ninja H2 is a "supercharged supersport"-class motorcycle in the Ninja sports bike series manufactured by Kawasaki, featuring a variable-speed centrifugal supercharger. Its namesake is the 750 cc Kawasaki H2 Mach IV, an inline triple that was introduced by Kawasaki in 1972 to "disrupt what it saw as a sleeping motorcycle market".</item>
+        <item>BMW S1000RR is a race oriented sport bike initially made by BMW Motorrad to compete in the 2009 Superbike World Championship, that is now in commercial production. It was introduced in Munich in April 2008, and is powered by a 999 cc (61.0 cu in) four-cylinder engine redlined at 14,200 rpm.</item>
+        <item>The Honda CBR1000RR, marketed in some countries as the "Fireblade" (capitalized as FireBlade until the 2000s), is a 999 cc (61.0 cu in) liquid-cooled inline four-cylinder superbike, introduced by Honda in 2004 as the 7th generation of the CBR series of motorcycles that began with the CBR900RR in 1990.</item>
+        <item>The Suzuki GSX-R1000 is a supersport motorcycle made by Suzuki. It was introduced in 2001 to replace the GSX-R1100 and is powered by a liquid-cooled 999 cc (61.0 cu in) inline four-cylinder, four-stroke engine although originally 988 cc (60.3 cu in) from 2001 to 2004.</item>
+        <item>The Suzuki GSX1300R Hayabusa is a sports motorcycle made by Suzuki since 1999. It immediately won acclaim as the worlds fastest production motorcycle, with a top speed of 303 to 312 km/h (188 to 194 mph).</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/r1</item>
+        <item>@drawable/r6</item>
+        <item>@drawable/zx25</item>
+        <item>@drawable/zx6</item>
+        <item>@drawable/zx10</item>
+        <item>@drawable/h2</item>
+        <item>@drawable/bmw</item>
+        <item>@drawable/cbr</item>
+        <item>@drawable/gsx</item>
+        <item>@drawable/hayabusa</item>
+    </integer-array>
+
+    <string-array name="data_oldPrice">
+        <item name="oldPrice1">Rp395.000.000</item>
+        <item name="oldPrice2">Rp330.000.000</item>
+        <item name="oldPrice3">Rp92.000.000</item>
+        <item name="oldPrice4">Rp186.000.000</item>
+        <item name="oldPrice5">Rp249.000.000</item>
+        <item name="oldPrice6">Rp599.000.000</item>
+        <item name="oldPrice7">Rp379.000.000</item>
+        <item name="oldPrice8">Rp458.000.000</item>
+        <item name="oldPrice9">Rp443.000.000</item>
+        <item name="oldPrice10">Rp851.000.000</item>
+    </string-array>
+
+    <string-array name="data_newPrice">
+        <item name="newPrice1">Rp489.000.000</item>
+        <item name="newPrice2">Rp427.000.000</item>
+        <item name="newPrice3">Rp113.000.000</item>
+        <item name="newPrice4">Rp348.000.000</item>
+        <item name="newPrice5">Rp590.000.000</item>
+        <item name="newPrice6">Rp890.000.000</item>
+        <item name="newPrice7">Rp759.000.000</item>
+        <item name="newPrice8">Rp785.000.000</item>
+        <item name="newPrice9">Rp813.000.000</item>
+        <item name="newPrice10">Rp1.100.000.000</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".About">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/fotoku"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/foto"/>
+
+    <TextView
+        android:layout_below="@+id/fotoku"
+        android:id="@+id/nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Muhammad Fahrizal"
+        android:fontFamily="@font/poppinsextra"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:textSize="24sp"
+        />
+
+    <TextView
+        android:layout_below="@+id/nama"
+        android:id="@+id/kelas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MD-43"
+        android:fontFamily="@font/poppinsbold"
+        android:gravity="center"
+        android:textSize="20sp"
+        />
+
+    <TextView
+        android:layout_below="@+id/kelas"
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="a304dsx1262@bangkit.academy"
+        android:fontFamily="@font/poppinssemibold"
+        android:gravity="center"
+        android:textSize="18sp"
+        />
+
+</RelativeLayout>
